@@ -11,3 +11,10 @@ I am currently implementing these upgrades in order to have all set and ready fo
 I will attach the last year excel file in case someone is interested on the process, the file has some sheets with raw data and tests I´ve been doing along the year, sorry if it´s a mess.
 The next couple wweks I will update the repository with the Python addings.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+I uploaded the jupyter notebook file where I am doing tests with python to upgrade the excel.
+I am scrapping the worldoffootball.net web to get all the matchweeks and the fixtures and append them to a dataframe.
+Then I am reshaping and adapting it to my purpose and then the final step is to add it to a sheet in the Excel book but still working on it,
+with all this I wouldnt need to type the results so I will fill them automatically just refreshing the date in the Excel sheets.
