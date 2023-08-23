@@ -18,3 +18,10 @@ I uploaded the jupyter notebook file where I am doing tests with python to upgra
 I am scrapping the worldoffootball.net web to get all the matchweeks and the fixtures and append them to a dataframe.
 Then I am reshaping and adapting it to my purpose and then the final step is to add it to a sheet in the Excel book but still working on it,
 with all this I wouldnt need to type the results so I will fill them automatically just refreshing the date in the Excel sheets.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Finally, I finished and updated my file and my excel book to the new season and I did a couple changes, I also convert the jupyter notebook to a .py
+I upload both files to the repository and keep it all visible, all the test sheets are open and modifiable so if anyone wants to, is able to do it.
+I will appreciate if any relevant change is accomplished, to share it.
